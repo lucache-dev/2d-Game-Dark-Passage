@@ -1,12 +1,11 @@
-🌑 Dark Passage — 2D Web Game
+## 🌑 Dark Passage — 2D Web Game
+
 Dark Passage is a 2D platformer built using the Godot Engine as part of a university game development class project. Explore shadowy corridors, overcome obstacles, and uncover the secrets hidden within this eerie, side-scrolling world.
 
-🎮 Play Now
-You can play the game online right here:
-🔗 Dark Passage - Web Version
-(Replace # with your actual game link)
+## 🎮 Play Now
+### 🔗 You can play the game online right here: [Dark Passage - Web Version](https://melodious-semifreddo-c4533f.netlify.app/export.html)
 
-🛠️ Features
+### 🛠️ Features
 Built with Godot Engine 3.6
 
 2D platformer mechanics
@@ -15,7 +14,7 @@ Atmospheric art style and sound design
 
 Designed and developed as a student project
 
-🧪 Running Locally
+#### 🧪 Running Locally
 If you'd like to run the game locally, follow these steps:
 
 Download Godot Engine v3.6 (Stable):
@@ -49,7 +48,7 @@ dark-passage/
 
 📚 Credits
 Developed by:
--   Lucas Almeida
--   Jonas Sprocatti (https://github.com/jonassprotti)
+- [Jonas Sprocatti](https://github.com/jonassprotti)
+- [Lucas Almeida](https://github.com/lucache-dev)
 
-University Project — Science of Computation
+University Project — Science of Computation - Uninove
