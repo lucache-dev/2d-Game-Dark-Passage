@@ -1,5 +1,55 @@
-Jogo de Plataforma 2D - Dark Passage
+🌑 Dark Passage — 2D Web Game
+Dark Passage is a 2D platformer built using the Godot Engine as part of a university game development class project. Explore shadowy corridors, overcome obstacles, and uncover the secrets hidden within this eerie, side-scrolling world.
 
-Projeto integrado do Semestre, utilizando a Engine Godot, juntamente com a GDscript, muito semelhante ao Python, foi desenvolvido um jogo de plataforma 2d, com 3 fases, um chefão, inimigos com 'inteligencia', e dificuldade progressiva.
+🎮 Play Now
+You can play the game online right here:
+🔗 Dark Passage - Web Version
+(Replace # with your actual game link)
 
-O projeto foi desenvolvido em conjunto com o @Jonas_Sprocatti(https://github.com/jonassprotti), e está disponivel para download no site oficial : http://darkpassage.atwebpages.com
+🛠️ Features
+Built with Godot Engine 3.6
+
+2D platformer mechanics
+
+Atmospheric art style and sound design
+
+Designed and developed as a student project
+
+🧪 Running Locally
+If you'd like to run the game locally, follow these steps:
+
+Download Godot Engine v3.6 (Stable):
+Godot 3.6 Download Page
+
+Clone this repository:
+
+```bash
+git clone git@github.com:lucache-dev/2d-Game-Dark-Passage.git
+cd dark-passage
+```
+Open the project in Godot:
+
+Launch Godot 3.6.
+
+Click on "Import" and select the project.godot file from the cloned folder.
+
+Run the game:
+
+Press the Play button inside Godot or hit F5.
+
+📁 Project Structure
+```bash
+dark-passage/
+├── assets/           # Sprites, sounds, backgrounds
+├── scenes/           # Game scenes (levels, menu, etc.)
+├── scripts/          # GDScript files for game logic
+├── project.godot     # Main Godot project file
+└── README.md
+```
+
+📚 Credits
+Developed by:
+-   Lucas Almeida
+-   Jonas Sprocatti (https://github.com/jonassprotti)
+
+University Project — Science of Computation
